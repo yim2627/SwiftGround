@@ -3,6 +3,7 @@ import UIKit
 
 /*
  UserDefaults는 '데이터 저장소'이다.
+ SingleTon pattern
  [data, key]로 데이터를 저장하며, 이때 key의 값은 String이다.
  어느 곳이든 데이터를 쉽게 읽고 저장할 수 있게한다.
  UserDefaults는 사용자 기본 설정같은 단일 데이터 값에 적합하다.
