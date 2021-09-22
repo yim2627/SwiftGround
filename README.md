@@ -9,6 +9,6 @@ Swift 공부방입니다.
 3. [Control Flow](https://github.com/yim2627/SwiftGround/tree/master/Swift-Language/ControlFlow)
    
    
-# Ground
+# Swift Ground
 1. [UserDefaults](https://github.com/yim2627/SwiftGround/tree/master/Swift-Ground/UserDefaults.playground)
 2. [Singleton](https://github.com/yim2627/SwiftGround/tree/master/Swift-Ground/Singleton.playground)
