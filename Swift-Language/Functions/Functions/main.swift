@@ -122,3 +122,5 @@ var anotherInt = 107
 swapTwoInts(&someInt, &anotherInt)
 print("someInt is now \(someInt), and anotherInt is now \(anotherInt)")
 // Prints "someInt is now 107, and anotherInt is now 3"
+//인-아웃 파라미터는 기본 값을 갖을 수 없음
+
