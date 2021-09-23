@@ -123,4 +123,4 @@ swapTwoInts(&someInt, &anotherInt)
 print("someInt is now \(someInt), and anotherInt is now \(anotherInt)")
 // Prints "someInt is now 107, and anotherInt is now 3"
 //인-아웃 파라미터는 기본 값을 갖을 수 없음
-
+//인-아웃 파라미터를 사용하는 것은 함수의 반환 값을 사용하지 않고 함수 scope 밖에 영향을 줄 수 있는 또 하나의 방법
