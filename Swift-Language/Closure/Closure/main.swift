@@ -133,5 +133,5 @@ print("Collected \(customerProviders.count) closures.")
 for customerProvider in customerProviders {
     print("Now serving \(customerProvider())!")    // 클로저를 실행하면 배열의 0번째 원소를 제거하며 그 값을 출력
 }
-// Prints "Now serving Barry!"
-// Prints "Now serving Daniella!"
+// "Now serving Barry!"
+// "Now serving Daniella!"
